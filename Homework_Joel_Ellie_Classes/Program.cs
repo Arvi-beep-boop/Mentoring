@@ -9,14 +9,15 @@ public class Vector2
     public float X;
     public float Y;
 
-    public float DistanceTo(Vector2 vector)
-    { 
-        return  (float)Math.Sqrt(Math.Pow(X - vector.X, 2) + Math.Pow(Y - vector.Y, 2)); 
-    }
     public Vector2(float x, float y)
     {
         X = x;
         Y = y;
+    }
+
+    public float DistanceTo(Vector2 vector)
+    { 
+        return  (float)Math.Sqrt(Math.Pow(X - vector.X, 2) + Math.Pow(Y - vector.Y, 2)); 
     }
 }
 
@@ -29,23 +30,19 @@ class BarkSystem
         Barks = barks;
         Characters = characters;
     }   
-    public void RegisterCharacter(Character character)
-    {
-        Characters.Add(character);
-    }
     public Character FindNearbyCharacter(Character character)
     {
-        float min_distance = 999999999999999999; // jak sie kurwa infinity robi, dzwon po avengersow
+        float min_distance = float.MaxValue; // not an infinity but it will work
         Character min_character = null;
-        for (int i = 0; i < Characters.Count; ++i)
+        foreach(Character obj in Characters)
         {
-            if (Characters[i] != character)
+            if (obj != character)
             {
-                float distance = character.Position.DistanceTo(Characters[i].Position);
+                float distance = character.Position.DistanceTo(obj.Position);
                 if(distance < min_distance)
                 {
                     min_distance = distance;
-                    min_character = Characters[i];
+                    min_character = obj;
                 }
             }
         }
@@ -175,6 +172,7 @@ class Progam
         //dialogueLines.Add(new DialogueLine(0, "Huh. So fuckin' cool."));
         //DialogueScene scene = new DialogueScene(dialogueLines);
         //scene.Play(Characters);
+
         barkSystem.PlayBark(joel);
         barkSystem.PlayBark(tommy);
     }
