@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xarvi\\source\\repos\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj": {}
+    "C:\\Mentoring\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xarvi\\source\\repos\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj": {
+    "C:\\Mentoring\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xarvi\\source\\repos\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj",
+        "projectUniqueName": "C:\\Mentoring\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj",
         "projectName": "Homework_Joel_Ellie_Classes",
-        "projectPath": "C:\\Users\\xarvi\\source\\repos\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj",
+        "projectPath": "C:\\Mentoring\\Homework_Joel_Ellie_Classes\\Homework_Joel_Ellie_Classes.csproj",
         "packagesPath": "C:\\Users\\xarvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xarvi\\source\\repos\\Homework_Joel_Ellie_Classes\\obj\\",
+        "outputPath": "C:\\Mentoring\\Homework_Joel_Ellie_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xarvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
