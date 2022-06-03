@@ -1,0 +1,15 @@
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\bin\Debug\net6.0\Homework_Joel_Ellie_Classes.exe
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\bin\Debug\net6.0\Homework_Joel_Ellie_Classes.deps.json
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\bin\Debug\net6.0\Homework_Joel_Ellie_Classes.runtimeconfig.json
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\bin\Debug\net6.0\Homework_Joel_Ellie_Classes.dll
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\bin\Debug\net6.0\Homework_Joel_Ellie_Classes.pdb
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.csproj.AssemblyReference.cache
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.AssemblyInfoInputs.cache
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.AssemblyInfo.cs
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.csproj.CoreCompileInputs.cache
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.dll
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\refint\Homework_Joel_Ellie_Classes.dll
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.pdb
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\Homework_Joel_Ellie_Classes.genruntimeconfig.cache
+C:\Users\xarvi\source\repos\Homework_Joel_Ellie_Classes\obj\Debug\net6.0\ref\Homework_Joel_Ellie_Classes.dll

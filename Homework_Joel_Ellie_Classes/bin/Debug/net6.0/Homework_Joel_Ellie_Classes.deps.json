@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homework_Joel_Ellie_Classes/1.0.0": {
+        "runtime": {
+          "Homework_Joel_Ellie_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework_Joel_Ellie_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
